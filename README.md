@@ -7,7 +7,6 @@ Certainly, here's a more detailed repository description in 350 words for your G
 ---
 
 
-**Description:**
 
 Welcome to my coding journey as I strive to attain the Meta Front-End Development Professional Certificate. This repository serves as a comprehensive record of my daily coding exercises, projects, and ongoing learning experiences within the dynamic realm of front-end development.
 
