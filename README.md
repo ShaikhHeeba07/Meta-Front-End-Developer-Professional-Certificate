@@ -6,7 +6,6 @@ Certainly, here's a more detailed repository description in 350 words for your G
 
 ---
 
-**Repository Name:** [Your Repository Name]
 
 **Description:**
 
